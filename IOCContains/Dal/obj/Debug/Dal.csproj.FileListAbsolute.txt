@@ -1,0 +1,13 @@
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\bin\Debug\Dal.dll
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\bin\Debug\Dal.pdb
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\bin\Debug\IDal.dll
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\bin\Debug\Model.dll
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\bin\Debug\MySql.Data.dll
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\bin\Debug\IDal.pdb
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\bin\Debug\Model.pdb
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\bin\Debug\MySql.Data.xml
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\obj\Debug\Dal.csproj.CopyComplete
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\obj\Debug\Dal.dll
+E:\大实训\3.课堂练习\12.3-ioc容器\IOCContains\Dal\obj\Debug\Dal.pdb
